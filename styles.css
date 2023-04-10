@@ -1,10 +1,2 @@
-let myCat = new Cat("tabby");
-console.log(myCat.species); // "tabby"
-myCat.makeSound(); // "The tabby makes a sound"
-myCat.purr(); // "purr"
 
-let myDog = new Dog("golden retriever");
-console.log(myDog.species); // "golden retriever"
-myDog.makeSound(); // "The golden retriever makes a sound"
-myDog.bark(); // "woof"
 
